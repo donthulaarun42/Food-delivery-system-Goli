@@ -1,0 +1,13 @@
+asgiref
+certifi
+charset-normalizer
+Django
+django-google-maps
+django-paypal
+idna
+paypal
+pbkdf2
+Pillow
+pytz
+razorpay
+whitenoise
