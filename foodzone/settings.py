@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-+06=x1aer^924_h5a5+l0sr)fb8p-9xd+#ctxqib1bi^ztu5dw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['food-delivery-system-goli.azurewebsites.net', 'localhost', '127.0.0.1','goli123.azurewebsites.net']
+ALLOWED_HOSTS = ['', 'localhost', '127.0.0.1','goli123.azurewebsites.net']
 
 
 # Application definition
